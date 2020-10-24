@@ -1,2 +1,5 @@
 <kmodule xmlns="http://www.drools.org/xsd/kmodule">
+  <configuration>
+      <property key="org.kie.dmn.runtime.listeners.BC202010" value="com.myspace.bc202010dmnlistener.MyDecisionListener"/>
+  </configuration>
 </kmodule>
